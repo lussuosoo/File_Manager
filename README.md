@@ -20,5 +20,4 @@
 
 1. Клонируйте репозиторий:
 ```bash
-[git clone https://github.com/yourusername/file-manager-react.git
-cd file-manager-react](https://github.com/lussuosoo/File_Manager.git)
+https://github.com/lussuosoo/File_Manager.git
