@@ -1,6 +1,7 @@
 # React File Manager
 
-![File Manager Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/9fbe30b7-dd70-4ba9-b57e-44f1234fc873)
+
 
 Полнофункциональный файловый менеджер на React с поддержкой папок, файлов, заметок и предпросмотра.
 
